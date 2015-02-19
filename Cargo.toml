@@ -1,0 +1,10 @@
+[package]
+
+name = "rust_playground"
+version = "0.0.1"
+authors = ["David Irvine <david.irvine@maidsafe.net>"]
+
+[dependencies]
+semver = "0.1.14"
+
+#conrod = "0.0.0"

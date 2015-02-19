@@ -1,0 +1,12 @@
+[root]
+name = "rust_playground"
+version = "0.0.1"
+dependencies = [
+ "semver 0.1.14 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "semver"
+version = "0.1.14"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
